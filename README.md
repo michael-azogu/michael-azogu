@@ -13,7 +13,9 @@
 
 ## Skills
 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c++.svg" alt="c++" width="36px" height="36px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg" alt="javascript" width="40px" height="40px"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg" alt="python" width="40px" height="40px"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg" alt="typescript" width="40px" height="40px"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c++.svg" alt="c++" width="40px" height="40px"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mongodb.svg" alt="mongodb" width="40px" height="40px">
+
+
 
 
 
