@@ -1,4 +1,4 @@
-![hello world](hello.jpg)
+![saying hello world](say-hello.jpg)
 
 
 <!--
