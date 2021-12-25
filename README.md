@@ -8,11 +8,6 @@
 
 I'm Michael (*a.k.a The freeOne*), a Software Engineer who is obsessed with Web Technologies & Design. I've been on this path since 2019 and I've never looked back since. Some technologies I love working with include JavaScript, VueJs & Python. Passionate about open-source web projects.
 
-## Stats
-<a href="https://github.com/michael-azogu">
-  <img align="center" style="margin:0.3rem" src="https://github-readme-stats.vercel.app/api?username=michael-azogu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="My GitHub Stats" />
-</a>
-
 ## Skills
 
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg" alt="javascript" width="40px" height="40px"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg" alt="python" width="40px" height="40px"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg" alt="typescript" width="40px" height="40px"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c++.svg" alt="c++" width="40px" height="40px">
@@ -23,6 +18,10 @@ I'm Michael (*a.k.a The freeOne*), a Software Engineer who is obsessed with Web 
 
 
 
+## Stats
+<a href="https://github.com/michael-azogu">
+  <img align="center" style="margin:0.3rem" src="https://github-readme-stats.vercel.app/api?username=michael-azogu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="My GitHub Stats" />
+</a>
 
 
 
