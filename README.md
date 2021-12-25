@@ -6,6 +6,8 @@
 
 **Hey there :wave:**
 
+I'm Michael (*a.k.a The freeOne*), a Software Engineer who is obsessed with Web Technologies & Design. I've been on this path since 2019 and I've never looked back since. Some technologies I love working with include JavaScript, VueJs & Python. Passionate about open-source web projects.
+
 ## Stats
 <a href="https://github.com/michael-azogu">
   <img align="center" style="margin:0.3rem" src="https://github-readme-stats.vercel.app/api?username=michael-azogu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="My GitHub Stats" />
