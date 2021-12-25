@@ -17,6 +17,8 @@
 
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/vuejs.svg" alt="vuejs" width="40px" height="40px"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/react.svg" alt="reactjs" width="40px" height="40px">
 
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg" alt="html" width="40px" height="40px"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg" alt="css" width="40px" height="40px"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/others/npm.svg" alt="npmjs" width="40px" height="40px">
+
 
 
 
