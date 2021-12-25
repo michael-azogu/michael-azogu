@@ -11,6 +11,12 @@
   <img align="center" style="margin:0.3rem" src="https://github-readme-stats.vercel.app/api?username=michael-azogu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="My GitHub Stats" />
 </a>
 
+## Skills
+
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c++.svg" alt="c++" width="36px" height="36px">
+
+
+
 <!--
 **michael-azogu/michael-azogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
