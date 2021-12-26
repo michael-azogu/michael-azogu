@@ -1,8 +1,8 @@
 ![saying hello world](say-hello.jpg)
 [![Visits Badge](https://badges.pufler.dev/visits/michael-azogu/michael-azogu)]()
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![DevTo Badge](https://img.shields.io/badge/DEV-0A0A0A?&logo=dev.to&logoColor=white)](https:dev.to/free_one)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michael-azogu-dev/)
+[![DevTo Badge](https://img.shields.io/badge/DEV-0A0A0A?&logo=dev.to&logoColor=white)](https://dev.to/free_one)
 
 **Hey there :wave:**
 
