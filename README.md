@@ -10,9 +10,7 @@
   <a href="https://dev.to/free_one" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="free_one" height="30" width="40" />
   </a>
-
   <a href="https://twitter.com/free_one_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="free_one_" height="30" width="40" /></a>
-  
   <a href="https://linkedin.com/in/michael-azogu-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-azogu-dev" height="30" width="40" /></a>
 
 </p>
